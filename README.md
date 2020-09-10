@@ -1,4 +1,4 @@
-<h2 align="center">Say hi i'm velo</h2>
+<h2 align="center">hi I'm velo</h2>
 <p align="center">
   <a href="https://discord.gg/roney target"blank_""><img src="https://img.shields.io/badge/My Server%20-1d202b.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <br>
